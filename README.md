@@ -18,14 +18,18 @@ WeatherForecast_AirPollution_Test/
 │── Object Repository/
 │   ├── Get_Weather_JakartaSelatan
 │   ├── Get_AirPollution_JakartaSelatan
+
 │── Test Cases/
 │   ├── TC_Get_Weather_JakartaSelatan
 │   ├── TC_Get_AirPollution_JakartaSelatan
 │   ├── TC_Get_Weather_And_AirPollution_JakartaSelatan
+
 │── Test Suites/
 │   ├── TS_Weather_AirPollution
+
 │── Scripts/
 │   ├── WeatherAPIUtils.groovy
+
 │── Reports/
 │── README.md
 │── .gitignore
